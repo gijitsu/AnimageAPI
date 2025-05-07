@@ -2,5 +2,5 @@
 
 This is an open-source API that allows developers to fully integrate its main feature in converting raw photos to anime pixelated output which uses the AnimeGANS model created by Tachibana Yoshino. This API will be fully developed in Flask Framework in order to utilize the pre-built functionalities of the AnimeGANS. In the section below will be listed a list of endpoints that this API has to offer to ensure that it provides a fully functional features in the creation of a fully large scale system via mobile or web-based system. Moreover, this API will be having routes for Authentication and Conversion
 
-# Endpoints
+## Endpoints
 
